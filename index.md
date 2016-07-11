@@ -27,20 +27,16 @@ layout: default
       </div>
     </div>
 
-    <div class="col col-1-2 right" style="xanimation-delay: -75s;">
+    <div class="col col-1-2 right">
       <div class="content animated fadeIn delayed">
-        <div>
-          <img src="assets/img/shoot1.png">
-          <!--video class="video--app" id="" autoplay="" muted="" preload="auto">
-            <source src="images/video.mp4" type="video/mp4">
-          </video-->
-        </div>
+        <div class="cassy-cont">
+    			<div><img src="assets/img/shoot1.png"></div>
+    		</div>
       </div>
 
       <div class="footer">
         <span class="align-center">
-          © 2013
-          <a class="twitter" href="http://github.com/enrmarc">enrmarc</a>
+          © 2013 &mdash; <a class="twitter" href="http://github.com/enrmarc">enrmarc</a>
         </span>
       </div>
     </div>
